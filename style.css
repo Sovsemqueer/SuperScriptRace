@@ -1,0 +1,9 @@
+.hide {
+    display: none;
+}
+
+.car {
+    width: 50;
+    height: 100px;
+    background: transparent url('https://i.pinimg.com/originals/f4/7d/e7/f47de7fd81202f36e8fc39bf2a5f296f.png') center / cover no-repeat
+}
